@@ -1,3 +1,5 @@
+*Note:* this example is based on mbed OS 3.0 and now superseeded by the [Blinky example based on mbed OS 5](https://github.com/ARMmbed/mbed-os-example-blinky)
+
 # example-mbedos-blinky
 
 Blinky is a simple example program that blinks an LED on an mbed-enabled board with mbed OS.
